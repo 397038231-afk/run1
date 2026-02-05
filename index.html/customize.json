@@ -5,5 +5,5 @@
   "imagePath": "img/g1.jpg"
    <div class="qr">
       <p>Scan me please 💌</p>
-      <img src="YOUR_QR_CODE_IMAGE.png" alt="QR Code" width="150">
+      <img src="qrcode2.png" alt="QR Code" width="150">
 }
